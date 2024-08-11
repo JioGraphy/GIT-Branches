@@ -1,0 +1,2 @@
+HEAD Branch: 
+is the currently "active" or "checked out" branch
